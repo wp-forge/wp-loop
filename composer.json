@@ -1,0 +1,18 @@
+{
+    "name": "wp-forge/wp-loop",
+    "description": "A generator function that makes working with the WordPress loop a dream.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Micah Wood",
+            "email": "micah@wpscholar.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "includes/wp-loop.php"
+        ]
+    },
+    "require": {}
+}
